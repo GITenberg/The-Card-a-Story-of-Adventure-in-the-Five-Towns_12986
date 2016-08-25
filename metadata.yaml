@@ -1,0 +1,42 @@
+_repo: The-Card-a-Story-of-Adventure-in-the-Five-Towns_12986
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bennett, Arnold
+    aliases:
+    - Bennett, Enoch Arnold
+    - Bennett, E. Arnold
+    birthdate: 1867
+    deathdate: 1931
+    gutenberg_agent_id: '859'
+    url: http://www.gutenberg.org/2009/agents/859
+    wikipedia: http://en.wikipedia.org/wiki/Arnold_Bennett
+description: "The Card is a short comic novel written by Arnold Bennett in 1911 (titled\
+  \ Denry the Audacious in the American edition). It was later made into a 1952 movie\
+  \ starring Alec Guinness and Petula Clark.\nLike much of Bennett's best work, it\
+  \ is set in the Potteries District of Staffordshire. It chronicles the rise of Edward\
+  \ Henry (\"Denry\") Machin from washerwoman's son to Mayor of Bursley (a fictitious\
+  \ town based on Burslem). This is accomplished through luck, initiative and a fair\
+  \ bit of chutzpah (in slang a card is a 'character', an 'original'; a clever, audacious,\
+  \ person).\nDenry Machin returned, as the slightly more mature \"Edward Henry\"\
+  , in Bennett's sequel The Regent (1913) (titled The Old Adam in its first U.S. edition).\n\
+  \ From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2004-07-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12986'
+  wikidata: Q3520203
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'City and town life -- Fiction'
+- !lcsh 'Staffordshire (England) -- Fiction'
+- !lcsh 'Adventure stories'
+- !lcc 'PR'
+- GITenberg
+title: The Card, a Story of Adventure in the Five Towns
+url: http://www.gutenberg.org/ebooks/12986
+wikipedia:
+- https://en.wikipedia.org/wiki/The_Card
