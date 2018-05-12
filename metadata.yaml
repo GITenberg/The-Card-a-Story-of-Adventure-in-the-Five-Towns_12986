@@ -1,5 +1,8 @@
 _repo: The-Card-a-Story-of-Adventure-in-the-Five-Towns_12986
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Bennett, Arnold
@@ -21,6 +24,8 @@ description: "The Card is a short comic novel written by Arnold Bennett in 1911 
   \ person).\nDenry Machin returned, as the slightly more mature \"Edward Henry\"\
   , in Bennett's sequel The Regent (1913) (titled The Old Adam in its first U.S. edition).\n\
   \ From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12986#The-Card-a-Story-of-Adventure-in-the-Five-Towns
 gutenberg_issued: '2004-07-22'
 gutenberg_type: Text
 identifiers:
